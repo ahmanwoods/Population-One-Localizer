@@ -4,7 +4,7 @@ Locally cache assets that are normally streamed in POPULATION: ONE. Resolves num
 # Installation
 1. Install Python
 2. Install tqdm via pip (pip install tqdm)
-3. Download the latest version of UnityAssetReplacer from https://github.com/Skyluker4/UnityAssetReplacer
+3. Download the latest version of UnityAssetReplacer from https://github.com/Skyluker4/UnityAssetReplacer/releases
 4. Extract UnityAssetReplacer to a folder next to the localizer called "UnityAssetReplacer-win-x64"
 
 # Usage
