@@ -1,4 +1,4 @@
-# Population-One-Localizer
+# Population One Localizer
 Locally cache assets that are normally streamed in POPULATION: ONE. Resolves numerous issues related to asset streaming & saves bandwith.
 
 # Installation
