@@ -1,5 +1,7 @@
 # Population One Localizer
-Locally cache assets that are normally streamed in POPULATION: ONE. Resolves numerous issues related to asset streaming & saves bandwith.
+This is no longer needed as of the build shipped on 03/03/22, thank you bigbox :)
+
+<s>Locally cache assets that are normally streamed in POPULATION: ONE. Resolves numerous issues related to asset streaming & saves bandwith.
 
 # Installation
 1. Install the latest version of Python 3
@@ -17,4 +19,4 @@ Locally cache assets that are normally streamed in POPULATION: ONE. Resolves num
 4. Run `pop1_localizer.py`, wait for the download to complete (this is about 15GB worth of assets, so it may take some time)
 5. Copy all of the `.bundle` files from the newly created `assets` folder to `your_pop_1_install_folder/PopulationONE_Data/StreamingAssets/aa/StandaloneWindows64`
 6. Run `repack_bundle`
-7. Copy `catalog.bundle` from the newly created `output` folder to `your_pop_1_install_folder/PopulationONE_Data/StreamingAssets/aa` and overwrite the existing file
+7. Copy `catalog.bundle` from the newly created `output` folder to `your_pop_1_install_folder/PopulationONE_Data/StreamingAssets/aa` and overwrite the existing file</s>
