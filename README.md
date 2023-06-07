@@ -10,7 +10,7 @@ Locally cache assets that are normally streamed in POPULATION: ONE. Resolves num
 1. Boot your game up and go to the main menu at least once
 2. Copy the `.json` file from `C:\Users\yourusername\AppData\LocalLow\BigBoxVR\Population_ ONE\com.unity.addressables` to the directory you extracted the localizer
 3. Open `pop1_localizer.py` in a text editor, ensure that `build_number` is set to whatever is currently listed below
-    - LIVE (non-playtest): v266
+    - LIVE (non-playtest): v278
 4. Run `pop1_localizer.py`, wait for the download to complete (this is about 35GB worth of assets, so it will take some time)
 5. Copy all of the `.bundle` files from the newly created `assets` folder to `your_pop_1_install_folder/PopulationONE_Data/StreamingAssets/aa/StandaloneWindows64`
 7. Copy the `.json` file from the newly created `replacement_json` folder to `C:\Users\yourusername\AppData\LocalLow\BigBoxVR\Population_ ONE\com.unity.addressables` and overwrite the existing file
