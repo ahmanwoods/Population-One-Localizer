@@ -7,7 +7,7 @@ from tqdm import tqdm
 max_download_threads = 6
 #prod for live, dev for playtest
 build_env = "prod"
-build_number = "v266"
+build_number = "v278"
 
 def get_urls():
     json_files = [f for f in os.listdir('.') if f.endswith('.json')]
